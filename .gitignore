@@ -1,0 +1,7 @@
+/.tox/
+/.hypothesis/
+/build/
+/dist/
+/libaicu.so/
+/tmp/
+_ace.abi3.so
